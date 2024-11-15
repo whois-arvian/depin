@@ -1,10 +1,1 @@
-198.23.239.134:6540:tubyeppu:blykrtcvatog
-207.244.217.165:6712:tubyeppu:blykrtcvatog
-107.172.163.27:6543:tubyeppu:blykrtcvatog
-64.137.42.112:5157:tubyeppu:blykrtcvatog
-173.211.0.148:6641:tubyeppu:blykrtcvatog
-161.123.152.115:6360:tubyeppu:blykrtcvatog
-167.160.180.203:6754:tubyeppu:blykrtcvatog
-154.36.110.199:6853:tubyeppu:blykrtcvatog
-173.0.9.70:5653:tubyeppu:blykrtcvatog
-173.0.9.209:5792:tubyeppu:blykrtcvatog
+socks5://tubyeppu-rotate:blykrtcvatog@p.webshare.io:80

@@ -1,4 +1,5 @@
 http://mlespaducrxw9ms:hgrk02qdlu6mqu1@rp.proxyscrape.com:6060
+http://1MC5ygTp5rzFOE7:1QyMeEMAeJePPIx@176.46.128.23:42123
 socks5://72.49.49.11:31034
 socks5://192.111.137.37:18762
 socks5://192.111.130.5:17002
